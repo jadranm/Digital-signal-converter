@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "noviLibrary")(type "KiCad")(uri "${KIPRJMOD}/noviLibrary.pretty")(options "")(descr ""))
+)
